@@ -2,7 +2,7 @@
 # 📑 Agenda Swing: Evolução Arquitetural Didática
 ## Este projeto é uma aplicação de agenda pessoal desenvolvida em Java Swing. O objetivo central é demonstrar a evolução de um código funcional simples para uma Arquitetura em Camadas (Layered Architecture) profissional.
 # 🚀 O Projeto
-## Uma agenda para cadastro de contatos (Nome, E-mail e Telefone) com persistência em arquivo de texto (.txt), validações rigorosas e exclusão lógica.
+# Uma agenda para cadastro de contatos (Nome, E-mail e Telefone) com persistência em arquivo de texto (.txt), validações rigorosas e exclusão lógica.
 # 🛠️ Tecnologias Utilizadas
    *   **JDK 21**: Utilizando as últimas funcionalidades da linguagem.
    *   **Maven**: Gestão de dependências e ciclo de vida do projeto.
